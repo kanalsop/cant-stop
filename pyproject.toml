@@ -1,0 +1,7 @@
+[project]
+name = "cant-stop"
+version = "0.1.0"
+description = "a project to calculate the probalility of cant-stop board game"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
